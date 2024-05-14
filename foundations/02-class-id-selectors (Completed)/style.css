@@ -1,0 +1,26 @@
+.Odd {
+    background-color: rgb(255, 182, 193);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+/* First Attempt */
+/* .Odd.Big {
+    font-size: 24px;
+} */
+
+/* Better Solution */
+
+.Big {
+    font-size: 24px;
+}
+
+#FirstEven {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#SecondEven {
+    background-color: rgb(144, 238, 144);
+    /* font-size: 24px; */
+    font-weight: bold;
+}
