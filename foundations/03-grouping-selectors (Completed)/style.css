@@ -1,0 +1,32 @@
+/* First Attempt (Failed) */
+/* .first {
+    background-color: #000000;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.second {
+    background-color: rgb(255, 255, 0);
+}
+
+.shared {
+   font-size: 28px; 
+   font-family: Helvetica,'Times New Roman', sans-serif;
+} */
+
+
+.first,
+.second {
+   font-size: 28px; 
+   font-family: Helvetica,'Times New Roman', sans-serif;
+}
+
+.first {
+    background-color: #000000;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.second {
+    background-color: #ffff00;
+}
